@@ -1,0 +1,12 @@
+Übung 1
+
+Unterschied Punkt 3 und 5:
+Bei Punkt 3 war noch nichts aufgelistet. 
+Sobald ich die Seite refresht habe, werden ganz viele Netzwerkaktivitäten aufgelistet.
+
+Die Aufzeichnungen kann man mit dem roten-Stoppknopf oben links beenden (Ctrl + E).
+Wenn man es wieder startet, sind die vorherigen Aufzeichnungen gelöscht.
+
+Übung 2
+
+Ich bin auf dem ausgewählten Element gelandet.
