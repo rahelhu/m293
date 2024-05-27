@@ -1,0 +1,12 @@
+h1 {
+  font-size: 3em;
+}
+
+#movies {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: bold;
+  font-size: 2em;
+  line-height: 1.5em;
+}
