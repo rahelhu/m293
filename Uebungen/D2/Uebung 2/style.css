@@ -1,0 +1,63 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.logo img {
+  height: 30px;
+}
+
+.model {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  color: black;
+  text-align: center;
+}
+
+#model1{
+  background-image: url(images/tesla-model-y.png);
+}
+
+#model2{
+  background-image: url(images/tesla-model-3.webp);
+}
+
+.model h1 {
+  font-size: 2.5em;
+}
+
+header button {
+  color: black;
+  background-color: #d1d1d1;
+}
+
+.button1 {
+  padding: 10px 20px;
+  font-size: 1em;
+  color: #fff;
+  background-color: #0d0d0d;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button2 {
+  padding: 10px 20px;
+  font-size: 1em;
+  color: black;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+footer {
+  text-align: center;
+}
