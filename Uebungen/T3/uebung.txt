@@ -1,0 +1,15 @@
+Übung 2:
+
+- Wenn man einen Standardport angibt, wird er anschliessend in der URL nicht angezeigt.
+Es ist dann also genau wie vorher
+
+- Bei einem anderen Port lädt es die Seite ganz lang und gibt schliesslich die Meldung "Die Webseite ist nicht erreichbar" an.
+ Es kann die Seite also nicht laden.
+
+
+
+Übung 4:
+
+- Einstellung Preserve log:
+Normalerweise ist es so, dass beim Neuladen einer Seite alle Einträge gelöscht werden.
+Mit dieser Einstellung werden diese nicht entfernt.
