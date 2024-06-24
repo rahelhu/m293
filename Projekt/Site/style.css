@@ -1,0 +1,43 @@
+/*Index*/
+
+.picture {
+  height: 100px;
+  width: auto;
+}
+
+#imgWelcome{
+  height: 200px;
+  width: 800px;
+}
+
+.logo {
+  height: 100px;
+  width: auto;
+}
+
+.upperHeader {
+  display: flex;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pictures {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+/*Product*/
+
+#imgItem, #imgAbout {
+  height: 300px;
+}
+
+.sectionItemDescription, .about {
+  display: flex;
+  justify-content: space-between;
+}
+
