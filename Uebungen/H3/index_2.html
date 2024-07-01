@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Vorliebe Formular</title>
+  </head>
+  <body>
+    <form action="index_2.html">
+      <fieldset>
+        <legend>Kategorie 1</legend>
+        <label for="option1">Option 1:</label>
+        <input type="radio" id="option1" name="category1" value="option1" />
+        <label for="option1">Ja</label><br />
+        <label for="option2">Option 2:</label>
+        <input type="radio" id="option2" name="category1" value="option2" />
+        <label for="option2">Nein</label><br />
+      </fieldset>
+      <br />
+      <fieldset>
+        <legend>Kategorie 2</legend>
+        <select id="dino-select">
+          <optgroup label="1-3">
+            <option>Option 1</option>
+            <option>Option 2</option>
+            <option>Option 3</option>
+          </optgroup>
+          <optgroup label="4-6">
+            <option>Option 4</option>
+            <option>Option 5</option>
+            <option>Option 6</option>
+          </optgroup>
+        </select>
+      </fieldset>
+      <br />
+      <input type="submit" value="Absenden" />
+    </form>
+  </body>
+</html>
