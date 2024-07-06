@@ -19,16 +19,37 @@
   display: flex;
 }
 
-.navigation {
-  display: flex;
-  justify-content: space-around;
-}
-
 .pictures {
   display: flex;
   justify-content: space-around;
 }
 
+legend {
+  font-size: 0.8rem;
+  color: gray;
+}
+
+/*Navigation*/
+a:hover {
+  background-color: #dbd8d5; /* Change background color on hover */
+  text-decoration: underline ;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav, footer {
+  background-color: #F5F1ED; 
+  padding: 20px;
+  border: 1px solid #A99985; /* line (separate nav from main)*/
+}
+
+a {
+  text-decoration: none; /*removes underline*/
+  color: black; /* textcolor */
+}
 
 /*Product*/
 
