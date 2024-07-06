@@ -1,0 +1,8 @@
+/*forms*/
+
+form button {
+  background-color: #684756;
+  color: white;
+  padding: 8px 15px;
+  cursor: pointer;
+}
