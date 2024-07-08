@@ -6,3 +6,11 @@ form button {
   padding: 8px 15px;
   cursor: pointer;
 }
+
+
+/*for smartphones*/
+@media (max-width: 768px) { 
+  label, input, select, textarea {
+    width: 100%; /* use whole width*/
+  }
+}
